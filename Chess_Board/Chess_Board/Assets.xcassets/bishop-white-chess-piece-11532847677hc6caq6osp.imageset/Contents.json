@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "bishop-white-chess-piece-11532847677hc6caq6osp.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
